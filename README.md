@@ -4,7 +4,7 @@
   <img alt="sparsh1536's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-## Hi there 👋
+## If the earth became a funeral pyre, I would sit beside it without grief. The fire would keep me warm, and the end would find me well fed...
 
 <!--
 **sparsh1536/sparsh1536** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
