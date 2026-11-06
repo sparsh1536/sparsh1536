@@ -1,22 +1,14 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="sparsh1536's GitHub profile" src="dark_mode.svg" />
-</picture>
+# Sparsh Soni — Developer Portfolio
 
-## If the earth became a funeral pyre, I would sit beside it without grief. The fire would keep me warm, and the end would find me well fed...
+A premium, futuristic, responsive personal portfolio.
 
-<!--
-**sparsh1536/sparsh1536** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Preview locally
+Open `index.html` in a browser. No build step is required.
 
-Here are some ideas to get you started:
+## Sections
+Home · About · Selected Projects · Technical Stack · Education · Contact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Notes
+- CivicLens is a private repository, so its source link is marked restricted.
+- The LinkedIn link is a placeholder and should be replaced with the correct profile URL before public promotion.
+- Review every skill and project claim before using this portfolio in job applications.
